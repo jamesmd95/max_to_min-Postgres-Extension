@@ -1,0 +1,4 @@
+
+comment = 'Aggregate function max_to_min: returns max -> min'
+default_version = '1.0'
+relocatable = true
